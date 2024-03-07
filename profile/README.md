@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+The **Open Data Contract Standard (ODCS)** is maintained in the  [open-data-contract-standard repository](https://github.com/bitol-io/open-data-contract-standard). 
+
+The project is governed by the **Technical Steering Committee (TSC)**, working documents are in the [TSC repository](https://github.com/bitol-io/tsc).
+
 <!--
 
 **Here are some ideas to get you started:**
