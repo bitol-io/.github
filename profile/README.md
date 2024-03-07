@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Bitol 👋
 
 The **Open Data Contract Standard (ODCS)** is maintained in the  [open-data-contract-standard repository](https://github.com/bitol-io/open-data-contract-standard). 
 
