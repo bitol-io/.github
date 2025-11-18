@@ -9,5 +9,5 @@ Join our [Slack](https://jgp.ai/dmlslack)!
 Mature repos:
 
 * The **Open Data Contract Standard (ODCS)** is maintained in the  [open-data-contract-standard repository](https://github.com/bitol-io/open-data-contract-standard). The current version is v3.0.2.
-* We are also working on the **Open Data Product Standard (ODPS)**, check out the [ODPS repo](https://github.com/bitol-io/open-data-product-standard).
+* We are also working on the **Open Data Product Standard (ODPS)**, check out the [open-data-product-standard repository](https://github.com/bitol-io/open-data-product-standard). The current version is v1.0.0.
 * The project is governed by the **Technical Steering Committee (TSC)**, working documents are in the [TSC repository](https://github.com/bitol-io/tsc).
